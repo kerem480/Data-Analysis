@@ -28,8 +28,14 @@ Football Player Data Analysis
   *******************************************************************************************************************
   *******************************************************************************************************************
   *******************************************************************************************************************
-  ![elbowsss](https://user-images.githubusercontent.com/73754203/222440291-b00d6ae5-6d00-4aeb-9eca-339a5f1520a4.png)
+  ![elbow](https://user-images.githubusercontent.com/73754203/222442396-71570f1e-c165-4032-b936-e8cd072a5cb4.png)
   
    While making the k-means graph in this technique. It answers the question of how many total clusters we need to use.
    
    According to the graph shown above, the number of clusters that should be used for efficiency is eight
+   
+   The final version of my chart is also available in the analysis folder.
+   
+   Other algorithms related to machine learning, I share examples of graphics on my kaggle profile.
+   
+   If you want to have information about these, my kaggle profile link: https://www.kaggle.com/keremkarayaz/code
