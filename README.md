@@ -17,5 +17,19 @@ Football Player Data Analysis
 ⚫️There is no regular progression of goals scored in matches in linear regression
 
 ⚪️From the summary table we can say that the cutoff (constant) coefficient is 12.7918 and the independent variable coefficient is 0.1910
-  (If Goals increases by 1 it means const increases by 0.0017 units) If the p value of the independent variable(s) is greater than 0.050, we say the variable is not significant and we can exclude the variable.
+  (If Goals increases by 1 it means const increases by 0.0017 units) If the p value of the independent variable(s) is greater than 0.050, we say the variable is not     significant and we can exclude the variable.
   In our case, we cannot say that this variable is significant since the p-value of Goals is greater than 0.000 and 0.050.
+
+  In our case, we cannot say that this variable is significant since the p-value of Goals is greater than 0.000 and 0.050.
+  
+  I want to give you information about the elbow technique.
+  
+  ![elbow](https://user-images.githubusercontent.com/73754203/222439148-0cbce581-2d65-4c80-bf71-6e497fb919c2.png)
+  *******************************************************************************************************************
+  *******************************************************************************************************************
+  *******************************************************************************************************************
+  ![elbowsss](https://user-images.githubusercontent.com/73754203/222440291-b00d6ae5-6d00-4aeb-9eca-339a5f1520a4.png)
+  
+   While making the k-means graph in this technique. It answers the question of how many total clusters we need to use.
+   
+   According to the graph shown above, the number of clusters that should be used for efficiency is eight
